@@ -58,7 +58,7 @@ const auszeitXl: CampsiteConfig = {
   ],
 
   trust: {
-    heading: "Viermal ausgezeichnet, das ganze Jahr offen",
+    heading: "Mehrfach ausgezeichnet, das ganze Jahr offen",
     headingEmphasis: "das ganze Jahr offen",
     intro:
       "Vom ADAC als 4★-Tipp und vom ECC als Spitzenplatz ausgezeichnet: großzügige Stellplätze direkt am Erlebnisberg, dazu Mobilheime, Pension und Gastronomie der Familie Schitter.",
