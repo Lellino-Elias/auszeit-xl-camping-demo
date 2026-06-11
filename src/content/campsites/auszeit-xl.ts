@@ -15,7 +15,6 @@ const auszeitXl: CampsiteConfig = {
   brandKind: "4★ Campingplatz",
   regionLong: "Salzburger Lungau · Salzburger Land · Österreich",
 
-  theme: "alpin",
   heroVariant: "center",
 
   claim: "Camping an der Bergbahn — 365 Tage im Jahr",
@@ -247,7 +246,6 @@ const auszeitXl: CampsiteConfig = {
     mail: "office@auszeit-xl.at",
     facebook: "https://www.facebook.com/auszeitxl.urlaub.mauterndorf/",
     adresse: "Markt 416 · 5570 Mauterndorf · Salzburger Lungau",
-    coords: { lat: 47.1427797, lng: 13.6655605 },
   },
 
   languages: ["DE", "NL", "EN"],
