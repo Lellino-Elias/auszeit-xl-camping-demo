@@ -241,6 +241,7 @@ const auszeitXl: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.133871, lng: 13.679728, approx: true },
     tel: "+43 6472 72023",
     telHref: "tel:+43647272023",
     mail: "office@auszeit-xl.at",
